@@ -1,6 +1,6 @@
 ﻿
 import { ChannelService } from "./ChannelService";
-import { rpc } from "../../src/common/protocol/rpc";
+import { rpc } from "../../../src/common/protocol/rpc";
 
 /**
  * Application
