@@ -1,6 +1,5 @@
 ﻿
 import { ChannelService } from "./ChannelService";
-import { rpc } from "../../../src/common/protocol/rpc";
 
 /**
  * Application
@@ -860,4 +859,3 @@ export interface ChannelServiceOption
 }
 
 export * from "./ChannelService"
-export * from "./AsyncChannelService"
